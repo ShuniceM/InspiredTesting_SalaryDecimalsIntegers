@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspiredTesting_Integers", "InspiredTesting_Integers.csproj", "{DE7E4B32-5ED8-4C90-A8D8-E81C2BF4A0E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE7E4B32-5ED8-4C90-A8D8-E81C2BF4A0E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7E4B32-5ED8-4C90-A8D8-E81C2BF4A0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7E4B32-5ED8-4C90-A8D8-E81C2BF4A0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7E4B32-5ED8-4C90-A8D8-E81C2BF4A0E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3665D33F-4D9C-425F-9ED2-22799D55731A}
+	EndGlobalSection
+EndGlobal
